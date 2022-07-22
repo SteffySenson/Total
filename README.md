@@ -1,2 +1,2 @@
-# Total-
+# Total
 An Online Free Calculator
