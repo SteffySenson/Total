@@ -1,2 +1,3 @@
 # Total
-An Online Free Calculator
+
+A Free Online Calculator developed using HTML, CSS and JavaScript.
